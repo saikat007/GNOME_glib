@@ -1,0 +1,1 @@
+/home/saikat/jhbuild/install/share/gtk-doc/data/gtk-doc.notmpl.make

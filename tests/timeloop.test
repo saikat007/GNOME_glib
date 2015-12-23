@@ -1,0 +1,3 @@
+[Test]
+Type=session
+Exec=/home/saikat/jhbuild/install/libexec/installed-tests/glib/timeloop

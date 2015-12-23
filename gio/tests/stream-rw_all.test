@@ -1,0 +1,4 @@
+[Test]
+Type=session
+Exec=/home/saikat/jhbuild/install/libexec/installed-tests/glib/stream-rw_all --tap
+Output=TAP
